@@ -40,3 +40,45 @@ bfs(graph, 'A')
 print("\nDFS Traversal:")
 visited = set()
 dfs(graph, 'A', visited)
+
+'''
+from collections import deque   # Import deque (Queue)
+
+graph = {...}                   # Dictionary
+
+def bfs():                      # Function Definition
+
+def dfs():                      # Function Definition
+
+set()                           # Empty Set
+
+deque()                         # Queue Data Structure
+
+visited.add()                   # Add item to set
+
+queue.append()                  # Add item to queue
+
+queue.popleft()                 # Remove first item from queue
+
+while queue:                    # While Loop
+
+for neighbor in graph[node]:    # For Loop
+
+if neighbor not in visited:     # If Condition
+
+dfs(graph, neighbor, visited)   # Recursive Function Call
+
+print()                         # Output Function
+
+graph[node]                     # Access Dictionary Value
+
+=                               # Assignment Operator
+
+[]                              # List
+
+{}                              # Dictionary
+
+()                              # Function Call
+
+:                               # Start of Block
+'''
