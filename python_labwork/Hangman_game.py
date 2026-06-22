@@ -1,6 +1,10 @@
 import random
 
+<<<<<<< HEAD
 words = ['python', 'Java', 'Javascript', 'Csharp', 'Dotnet']
+=======
+words = ['python', 'Java', 'Javascript', 'CSharp', 'Dotnet']
+>>>>>>> acb7e57 (CSP program)
 
 word = random.choice(words)
 
