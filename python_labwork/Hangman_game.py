@@ -102,7 +102,6 @@ and                            # Logical AND Operator
 
 =                              # Assignment Operator
 
-[]                             # List
 
 ()                             # Function Call
 
